@@ -1,0 +1,13 @@
+num1 = int(input("Digite um numero: "))
+num2 = int(input("Digite um numero: "))
+
+soma = num1 + num2 
+subtracao = num1 - num2
+multiplicacao = num1 * num2
+divisão = num1 / num2 
+
+
+print(soma)
+print(subtracao)
+print(multiplicacao)
+print(divisão)

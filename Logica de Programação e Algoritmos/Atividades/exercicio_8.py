@@ -1,0 +1,6 @@
+Posicao_final = float(input("Digite a Posição final: "))
+Posicao_Inicial = float(input("Digite a Posição Inicial: "))
+Tempo_final = float(input("Digite o Tempo Final: "))
+Tempo_inicial = float(input("Digite o Tempo Inicial: "))
+vm = (Posicao_final-Posicao_Inicial)/(Tempo_final-Tempo_inicial)
+print("A velocidade é: " , vm)
